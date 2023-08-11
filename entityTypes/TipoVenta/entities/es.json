@@ -1,0 +1,19 @@
+{
+  "entities": [ {
+    "value": "Renta",
+    "synonyms": [ "arrendamiento", "Renta" ],
+    "languageCode": "es"
+  }, {
+    "value": "Venta",
+    "synonyms": [ "adquisición", "compra", "Venta", "Venta de contado" ],
+    "languageCode": "es"
+  }, {
+    "value": "3MSI",
+    "synonyms": [ "3 meses sin intereses", "3MSI", "tres meses sin intereses con mantenimiento incluido" ],
+    "languageCode": "es"
+  }, {
+    "value": "6MSI",
+    "synonyms": [ "6 meses sin intereses", "6MSI", "seis meses sin intereses con mantenimiento incluido" ],
+    "languageCode": "es"
+  } ]
+}

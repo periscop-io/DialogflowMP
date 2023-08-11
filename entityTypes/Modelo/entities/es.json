@@ -1,0 +1,47 @@
+{
+  "entities": [ {
+    "value": "MT40",
+    "synonyms": [ "MT40" ],
+    "languageCode": "es"
+  }, {
+    "value": "MT50",
+    "synonyms": [ "MT50" ],
+    "languageCode": "es"
+  }, {
+    "value": "BYG86",
+    "synonyms": [ "BYG" ],
+    "languageCode": "es"
+  }, {
+    "value": "EA60",
+    "synonyms": [ "EA60" ],
+    "languageCode": "es"
+  }, {
+    "value": "EA80",
+    "synonyms": [ "EA80" ],
+    "languageCode": "es"
+  }, {
+    "value": "EA100",
+    "synonyms": [ "EA100" ],
+    "languageCode": "es"
+  }, {
+    "value": "ZDT815",
+    "synonyms": [ "ZDT815" ],
+    "languageCode": "es"
+  }, {
+    "value": "EA120",
+    "synonyms": [ "EA120" ],
+    "languageCode": "es"
+  }, {
+    "value": "ZDT1015",
+    "synonyms": [ "ZDT1015" ],
+    "languageCode": "es"
+  }, {
+    "value": "ZDT1215",
+    "synonyms": [ "ZDT1215" ],
+    "languageCode": "es"
+  }, {
+    "value": "EA150",
+    "synonyms": [ "EA150" ],
+    "languageCode": "es"
+  } ]
+}

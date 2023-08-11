@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "Agua Fria Japoneses",
+    "synonyms": [ "Agua Fria Japoneses", "japoneses" ],
+    "languageCode": "es"
+  }, {
+    "value": "Tropical Tetras",
+    "synonyms": [ "Tropical Tetras", "tetras" ],
+    "languageCode": "es"
+  }, {
+    "value": "Tropical Tiburones",
+    "synonyms": [ "tiburones agua dulce", "Tropical Tiburones" ],
+    "languageCode": "es"
+  } ]
+}

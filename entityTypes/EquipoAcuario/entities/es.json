@@ -1,0 +1,35 @@
+{
+  "entities": [ {
+    "value": "Filtro 4 etapas",
+    "synonyms": [ "filtro", "Filtro 4 etapas", "Filtro incluido en tapa de 4 etapas", "Top Filter" ],
+    "languageCode": "es"
+  }, {
+    "value": "Iluminación Led",
+    "synonyms": [ "foco", "Iluminación", "lampara", "Lámpara led", "luz led" ],
+    "languageCode": "es"
+  }, {
+    "value": "Termostato",
+    "synonyms": [ "calentador", "regulador de temperatura", "Termostato" ],
+    "languageCode": "es"
+  }, {
+    "value": "Grava ",
+    "synonyms": [ "Grava ", "Sustrato" ],
+    "languageCode": "es"
+  }, {
+    "value": "Decoración  ",
+    "synonyms": [ "Decoración  " ],
+    "languageCode": "es"
+  }, {
+    "value": " Bomba de Aire",
+    "synonyms": [ " Bomba de Aire" ],
+    "languageCode": "es"
+  }, {
+    "value": "Gabinete",
+    "synonyms": [ "base", "Gabinete", "mueble" ],
+    "languageCode": "es"
+  }, {
+    "value": "Tanque",
+    "synonyms": [ "Tanque", "Tanque del acuario" ],
+    "languageCode": "es"
+  } ]
+}
