@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "Gran Barrera de Coral",
+    "synonyms": [ "Gran Barrera de Coral" ],
+    "languageCode": "es"
+  }, {
+    "value": "Coral del Pacifico",
+    "synonyms": [ "Coral del Pacifico" ],
+    "languageCode": "es"
+  }, {
+    "value": "Coral Oriental",
+    "synonyms": [ "Coral Oriental" ],
+    "languageCode": "es"
+  } ]
+}

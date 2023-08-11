@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "Salada",
+    "synonyms": [ "marina", "Salada" ],
+    "languageCode": "es"
+  }, {
+    "value": "Dulce",
+    "synonyms": [ "agua fresca", "Dulce", "freshwater", " tropical" ],
+    "languageCode": "es"
+  } ]
+}

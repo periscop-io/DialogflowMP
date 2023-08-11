@@ -1,0 +1,19 @@
+{
+  "entities": [ {
+    "value": "Efectivo",
+    "synonyms": [ "dinero en efectivo", "Efectivo", "pago en efectivo en las oficinas" ],
+    "languageCode": "es"
+  }, {
+    "value": "Tarjeta",
+    "synonyms": [ "pago con tarjetas en oficina con terminal bancaria", "Tarjeta", "Tarjeta de débito y crédito" ],
+    "languageCode": "es"
+  }, {
+    "value": "Mercado Pago",
+    "synonyms": [ "Link con Marcado Pago para pago con tarjeta", "Mercado Pago", "Mercado Pago de Mercado libre" ],
+    "languageCode": "es"
+  }, {
+    "value": "Transferencia",
+    "synonyms": [ "Deposito en cuenta", "Transferencia" ],
+    "languageCode": "es"
+  } ]
+}

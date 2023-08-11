@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "Colecciones Agua Dulce",
+    "synonyms": [ "Colecciones Agua Dulce", "peces tropicales" ],
+    "languageCode": "es"
+  }, {
+    "value": "Colecciones Agua Salada",
+    "synonyms": [ "Colecciones Agua Salada", "peces coral", "peces marinos" ],
+    "languageCode": "es"
+  } ]
+}

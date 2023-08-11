@@ -1,0 +1,35 @@
+{
+  "entities": [ {
+    "value": "Japonés escama de Perla",
+    "synonyms": [ "Japonés escama de Perla" ],
+    "languageCode": "es"
+  }, {
+    "value": "Japonés Moro",
+    "synonyms": [ "Japonés Moro" ],
+    "languageCode": "es"
+  }, {
+    "value": "Cebra Transgenica",
+    "synonyms": [ "Cebra Transgenica" ],
+    "languageCode": "es"
+  }, {
+    "value": "Tetra Monja Transgenica",
+    "synonyms": [ "Tetra Monja Transgenica" ],
+    "languageCode": "es"
+  }, {
+    "value": "Gato Peleatus",
+    "synonyms": [ "Gato Peleatus" ],
+    "languageCode": "es"
+  }, {
+    "value": "Japonés Calico",
+    "synonyms": [ "Japonés Calico" ],
+    "languageCode": "es"
+  }, {
+    "value": "Gato Plecus",
+    "synonyms": [ "Gato Plecus" ],
+    "languageCode": "es"
+  }, {
+    "value": "Betta",
+    "synonyms": [ "Beta", "Betta" ],
+    "languageCode": "es"
+  } ]
+}

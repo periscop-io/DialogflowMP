@@ -1,0 +1,67 @@
+{
+  "entities": [ {
+    "value": "Gobio Flama",
+    "synonyms": [ "Gobio Arenero", "Gobio Flama" ],
+    "languageCode": "es"
+  }, {
+    "value": "Lábrido Caramelo",
+    "synonyms": [ "Lábrido Caramelo", "Lábrido de Cabeza Azul" ],
+    "languageCode": "es"
+  }, {
+    "value": "Ángel Pigmeo",
+    "synonyms": [ "Ángel Frances", "Ángel Pigmeo" ],
+    "languageCode": "es"
+  }, {
+    "value": "Payaso Marrón",
+    "synonyms": [ "Payaso Clarky", "Payaso Marrón" ],
+    "languageCode": "es"
+  }, {
+    "value": "Damisela Dominó",
+    "synonyms": [ "Damisela Azul", "Damisela Dominó" ],
+    "languageCode": "es"
+  }, {
+    "value": "Ballesta Niger",
+    "synonyms": [ "Ballesta Niger" ],
+    "languageCode": "es"
+  }, {
+    "value": "Cirujano Pimienta",
+    "synonyms": [ "Cirujano de Velo", "Cirujano Pimienta" ],
+    "languageCode": "es"
+  }, {
+    "value": "Cardenal Pijama",
+    "synonyms": [ "Cardenal Pijama" ],
+    "languageCode": "es"
+  }, {
+    "value": "Ángel Limón",
+    "synonyms": [ "Ángel Limón" ],
+    "languageCode": "es"
+  }, {
+    "value": "Payaso Tomato",
+    "synonyms": [ "Payaso Tomato" ],
+    "languageCode": "es"
+  }, {
+    "value": "Payaso Pércula",
+    "synonyms": [ "Nemo", "Payaso Pércula" ],
+    "languageCode": "es"
+  }, {
+    "value": "Cangrejo Ermitaño",
+    "synonyms": [ "Cangrejo Ermitaño", "Invertebrados" ],
+    "languageCode": "es"
+  }, {
+    "value": "Camarón Fantasía",
+    "synonyms": [ "Camarón Fantasía", "Invertebrados" ],
+    "languageCode": "es"
+  }, {
+    "value": "Estrella Roja",
+    "synonyms": [ "Estrella Roja", "Invertebrados" ],
+    "languageCode": "es"
+  }, {
+    "value": "Almeja Fuego",
+    "synonyms": [ "Almeja Fuego", "Invertebrados" ],
+    "languageCode": "es"
+  }, {
+    "value": "Plumero Marino",
+    "synonyms": [ "Gusano Abanico", "Plumero " ],
+    "languageCode": "es"
+  } ]
+}

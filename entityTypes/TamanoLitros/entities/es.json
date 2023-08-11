@@ -1,0 +1,39 @@
+{
+  "entities": [ {
+    "value": "55lts",
+    "synonyms": [ "55 litros", "55lts", "cincuenta y cinco litros", "más pequeño" ],
+    "languageCode": "es"
+  }, {
+    "value": "80lts",
+    "synonyms": [ "80 litros", "80lts", "ochenta litros", "pequeño" ],
+    "languageCode": "es"
+  }, {
+    "value": "90lts",
+    "synonyms": [ "90 litros", "90lts", "mediano", "noventa litros" ],
+    "languageCode": "es"
+  }, {
+    "value": "100lts",
+    "synonyms": [ "100 litros", "100lts", "cien litros", "mediano" ],
+    "languageCode": "es"
+  }, {
+    "value": "150lts",
+    "synonyms": [ "150 litros", "150lts", "ciento cincuenta litros", "mediano" ],
+    "languageCode": "es"
+  }, {
+    "value": "200lts",
+    "synonyms": [ "200 litros", "200lts", "doscientos litros", "grande" ],
+    "languageCode": "es"
+  }, {
+    "value": "250lts",
+    "synonyms": [ "250 litros", "250lts", "doscientos cincuenta litros", "grande" ],
+    "languageCode": "es"
+  }, {
+    "value": "320lts",
+    "synonyms": [ "320 litros", "320lts", "grande", "trescientos veinte litros" ],
+    "languageCode": "es"
+  }, {
+    "value": "500lts",
+    "synonyms": [ "500 litros", "500lts", "más grande", "quinientos litros" ],
+    "languageCode": "es"
+  } ]
+}

@@ -1,0 +1,36 @@
+{
+  "defaultLanguageCode": "es",
+  "timeZone": "America/Chicago",
+  "enableLogging": true,
+  "projectNumber": 1097952444039,
+  "speechToTextSettings": {
+  
+  },
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+      "enableInteractionLogging": true
+    }
+  },
+  "speakerIdSettings": {
+  
+  },
+  "textToSpeechSettings": {
+  
+  },
+  "intentSuggestionSettings": {
+    "enableIntentSuggestions": true
+  }
+}
